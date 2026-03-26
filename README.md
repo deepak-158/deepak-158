@@ -242,8 +242,6 @@ const deepak: Developer = {
 
 ## 📈 Contribution Snake
 
-> ⚙️ **To activate:** Create `.github/workflows/snake.yml` in your repo using the workflow file provided separately.
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepak-158/deepak-158/output/github-snake-dark.svg" />
